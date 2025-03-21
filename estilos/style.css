@@ -21,6 +21,7 @@ background-attachment: fixed;
 
 main{
     height: 100vh;
+    width: 100vw;
     position: relative;
 }
 
@@ -60,4 +61,12 @@ section#redes-sociais > a > img:hover{
     border: 2px solid rgba(255, 255, 255, 0.678);
     transform: translate(-3px, -3px);
     transition: transform 0.5s, border 0.2s;
+}
+
+@media screen and (max-width: 440px) {
+    section#redes-sociais{
+        text-align: left;
+    }
+
+
 }
