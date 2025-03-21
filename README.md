@@ -1,1 +1,1 @@
-Curso em Vídeo
+Projeto Curso em Vídeo
