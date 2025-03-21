@@ -63,10 +63,3 @@ section#redes-sociais > a > img:hover{
     transition: transform 0.5s, border 0.2s;
 }
 
-@media screen and (max-width: 440px) {
-    section#redes-sociais{
-        text-align: left;
-    }
-
-
-}
